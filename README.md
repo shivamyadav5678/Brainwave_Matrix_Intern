@@ -5,8 +5,10 @@ This project focuses on analyzing sales data using Python to derive insights and
 
 ### Analysis
 The analysis consists of the following steps:
+<br>
 
 1.Data Cleaning: Handling missing values, removing duplicates, and formatting data.
+<br>
 2.Exploratory Data Analysis: Visualizing sales trends, seasonality, and key performance indicators (KPIs).
 
 ### Results
