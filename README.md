@@ -1,4 +1,4 @@
-# Sales Data Analysis Using Python
+# Data Analysis Using Python
 
 ### Introduction
 This project focuses on analyzing sales data using Python to derive insights and make data-driven decisions. The analysis includes data cleaning, exploratory data analysis (EDA), visualization, and statistical modeling. The primary goal is to understand sales trends, identify key factors driving sales, and provide actionable recommendations
